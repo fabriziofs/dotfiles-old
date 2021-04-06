@@ -100,6 +100,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+# Replacing cat with bat
+alias cat='bat --paging=never'
+
 # Replacing ls with exa
 TREE_IGNORE="cache|log|logs|node_modules|vendor"
 

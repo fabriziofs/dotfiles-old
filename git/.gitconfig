@@ -3,3 +3,5 @@
 	email = fabriziofasanando2@gmail.com
 [color]
 	ui = true
+[core]
+	pager = 
