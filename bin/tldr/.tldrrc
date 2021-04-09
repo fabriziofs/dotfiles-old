@@ -1,11 +1,11 @@
 {
   "themes": {
     "onedark": {
-      "commandName": "bold, underline, green",
+      "commandName": "bold, underline, greenBright",
       "mainDescription": "",
-      "exampleDescription": "cyanBright",
-      "exampleCode": "green",
-      "exampleToken": "magentaBright"
+      "exampleDescription": "redBright",
+      "exampleCode": "greenBright",
+      "exampleToken": "cyanBright"
     }
   },
   "theme": "onedark"
