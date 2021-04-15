@@ -5,3 +5,4 @@
 	ui = true
 [core]
 	pager = 
+	excludesfile = /home/fabrizio/.gitignore_global
