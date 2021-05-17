@@ -4,5 +4,5 @@
 [color]
 	ui = true
 [core]
-	pager = 
+	pager = less
 	excludesfile = /home/fabrizio/.gitignore_global
