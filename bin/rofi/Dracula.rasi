@@ -1,5 +1,5 @@
 * {
-    font: "Hack Nerd Font 12";
+    font: "CaskaydiaCove Nerd Font 14";
     foreground: #f8f8f2;
     background-color: #282a36;
     active-background: #6272a4;
@@ -117,4 +117,8 @@
     str:        ":";
     margin:     0px 0.3em 0em 0em ;
     text-color: @foreground;
+}
+
+element-icon {
+    size: 2.5ch;
 }

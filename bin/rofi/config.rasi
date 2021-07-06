@@ -1,4 +1,5 @@
 configuration {
 	modi: "window,run,ssh,drun";
 	theme: "Dracula";
+	show-icons: true;
 }
