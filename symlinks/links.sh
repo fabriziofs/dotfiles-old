@@ -1,6 +1,6 @@
 ln -s "$HOME/.dotfiles/bin/bat/config" "$HOME/.config/bat/config"
 ln -s "$HOME/.dotfiles/bin/rofi" "$HOME/.config/rofi"
-ln -s "$HOME/.dotfiles/bin/greenclip/greenclip.tml" "$HOME/.config/greenclip.tml"
+ln -s "$HOME/.dotfiles/bin/greenclip/greenclip.toml" "$HOME/.config/greenclip.toml"
 ln -s "$HOME/.dotfiles/git/.gitconfig" "$HOME/.gitconfig"
 ln -s "$HOME/.dotfiles/git/.gitignore_global" "$HOME/.gitignore_global"
 ln -s "$HOME/.dotfiles/shell/zsh/.zshrc" "$HOME/.zshrc"
