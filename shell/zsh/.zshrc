@@ -7,6 +7,9 @@ export ZSH="/home/fabrizio/.oh-my-zsh"
 # Add Go to PATH
 export PATH=$PATH:/usr/local/go/bin
 
+# Add Python programs to PATH
+export PATH=$PATH:$HOME/.local/bin
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
