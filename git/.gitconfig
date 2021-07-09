@@ -5,3 +5,4 @@
 	ui = true
 [core]
 	pager = less
+	autocrlf = input
