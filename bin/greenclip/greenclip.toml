@@ -7,15 +7,17 @@
   max_history_length = 50
   max_selection_size_bytes = 0
   static_history = [
-    ''' **Rama**
+    '''**Rama**
 
-**Archivos modificados**
+    **Archivos modificados**
 
-**¿Como probarla?**
+    **¿Como probarla?**
 
-**Pasos para subir**
-Copiar los archivos modificados en su lugar en producción y borrar caché.
-''',
+    **Pasos para subir**
+    Copiar los archivos modificados en su lugar en producción y borrar caché.
+    ''',
+
+    '''file:///home/fabrizio/Escritorio/defines.inc.php ''',
   ]
   trim_space_from_selection = true
   use_primary_selection_as_input = false
