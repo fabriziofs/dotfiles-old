@@ -14,6 +14,11 @@
 **Pasos para subir**
 Copiar los archivos modificados en su lugar en producción y borrar caché.
 ''',
+'''
+/* ####################################################################################################################
+NAME
+######################################################################################################################*/
+'''
   ]
   trim_space_from_selection = true
   use_primary_selection_as_input = false
