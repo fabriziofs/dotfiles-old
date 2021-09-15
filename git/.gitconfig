@@ -1,8 +1,15 @@
 [user]
 	name = Fabrizio Fasanando
-	email = fabriziofasanando2@gmail.com
+	email = 62360034+fabriziofs@users.noreply.github.com
+	signingkey = 62360034+fabriziofs@users.noreply.github.com 
 [color]
 	ui = true
 [core]
 	pager = less
 	excludesfile = /home/fabrizio/.gitignore_global
+
+[commit]
+	gpgsign = true
+
+[tag]
+	gpgSign = true
