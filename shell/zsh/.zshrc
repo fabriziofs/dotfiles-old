@@ -2,13 +2,16 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/fabrizio/.oh-my-zsh"
+export ZSH="/home/fabriziodf/.oh-my-zsh"
 
 # This loads nvm
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 
-export PATH=$PATH:$HOME/bin
+
+# Useful directories to have in path
+export PATH=$PATH:$HOME/bin:$HOME/.local/bin
+
 
 # Path to use firefox Developer Edition
 export PATH=/opt/firefox/firefox:$PATH
