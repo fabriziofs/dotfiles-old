@@ -1,7 +1,7 @@
 configuration {
 	modi: "window,run,drun";
 	show-icons: true;
-	font: "CaskaydiaCove Nerd Font 16";
+	font: "CaskaydiaCove Nerd Font 14";
 }
 
 @theme "./themes/Monokai_Pro.rasi"
